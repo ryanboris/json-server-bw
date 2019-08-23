@@ -1,0 +1,16 @@
+{
+  "users": {
+    "id": "",
+    "content": "",
+    "topic": "",
+    "imageUrl": "",
+    "update_at": "",
+    "user_id": 0
+  },
+  "questions": {
+    "user_id": 0,
+    "content": "",
+    "topic": "",
+    "imageUrl": ""
+  }
+}
